@@ -1,4 +1,4 @@
-# jukebox3
+# jukebox-Vue-Cadastro-Cliente
 
 ## Project setup
 ```
