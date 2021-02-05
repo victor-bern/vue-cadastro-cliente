@@ -92,7 +92,6 @@ export default {
   name: "Table",
   data() {
     return {
-      pica: "rola",
       clienteEdit: {
         nome: "",
         sobrenome: "",
